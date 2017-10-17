@@ -1,0 +1,18 @@
+﻿@model Whatsapp2.Models.Contacts
+@{
+    ViewBag.Title = "editContacts";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name)
+    @Html.ValidationMessageFor(m => m.Name)
+    <br />
+    @Html.LabelFor(m => m.Email)
+    @Html.TextBoxFor(m => m.Email)
+    @Html.ValidationMessageFor(m => m.Email)
+    <br />
+    <br />
+    <input type="submit" value="Edit Contacts" />
+}

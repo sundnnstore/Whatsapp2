@@ -1,0 +1,142 @@
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\ApplicationInsights.config
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\csc.exe.config
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\csc.rsp
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\csi.exe
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\csi.rsp
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.AppContext.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.IO.FileSystem.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\vbc.exe.config
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\vbc.rsp
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Whatsapp2.dll.config
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Whatsapp2.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Whatsapp2.pdb
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Antlr3.Runtime.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\EntityFramework.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Agent.Intercept.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.DependencyCollector.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.PerfCounterCollector.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Web.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.WindowsServer.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.ApplicationInsights.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.Web.Infrastructure.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Helpers.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Mvc.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Optimization.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Razor.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Deployment.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Razor.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\WebGrease.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\EntityFramework.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Helpers.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Mvc.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Optimization.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.Razor.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Deployment.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Razor.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Antlr3.Runtime.pdb
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.ApplicationInsights.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.DependencyCollector.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.WindowsServer.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Web.xml
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.dll
+\\mac\home\documents\visual studio 2017\Projects\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.pdb
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\ApplicationInsights.config
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\csc.exe
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\csc.exe.config
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\csc.rsp
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\csi.exe
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\csi.rsp
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.AppContext.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\vbc.exe
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\vbc.exe.config
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\vbc.rsp
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Whatsapp2.dll.config
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Whatsapp2.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Whatsapp2.pdb
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Antlr3.Runtime.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\EntityFramework.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\EntityFramework.SqlServer.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Web.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Newtonsoft.Json.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Helpers.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Mvc.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Optimization.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Razor.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\WebGrease.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\EntityFramework.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\EntityFramework.SqlServer.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Helpers.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Mvc.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Optimization.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.Razor.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Antlr3.Runtime.pdb
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Newtonsoft.Json.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\bin\Microsoft.AI.Web.xml
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.dll
+C:\Users\Jeroen\Downloads\Whatsapp2\Whatsapp2\Whatsapp2\obj\Debug\Whatsapp2.pdb

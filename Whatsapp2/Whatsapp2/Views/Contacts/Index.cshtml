@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Whatsapp2.Models.Contacts>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddContact")
+</p>
+
+<ol>
+    @foreach(var item in Model)
+    {
+        <li>@item.Name  @item.Email - @Html.ActionLink("Edit", "EditContact", new { id = item.Id }) - @Html.ActionLink("Delete", "DeleteContact", new { id = item.Id }) - @Html.ActionLink("new Message", "AddMessage", new { id = item.Id }) </li>
+    }
+</ol>

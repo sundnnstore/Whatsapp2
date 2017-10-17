@@ -1,0 +1,17 @@
+﻿@model Whatsapp2.Models.Contacts
+@{
+    ViewBag.Title = "Delete Contacts";
+}
+
+<h2>Delete Contacts</h2>
+@using (Html.BeginForm())
+{
+    <br /><br />
+    @Html.LabelFor(m => m.Name)
+    <p>@Model.Name</p>
+    <br /><br />
+    @Html.LabelFor(m => m.Email)
+    <p>@Model.Email</p>
+    <br /><br />
+    <input type="submit" value="Delete Contacts" />
+}

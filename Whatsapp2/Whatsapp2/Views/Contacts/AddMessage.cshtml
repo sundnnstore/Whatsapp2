@@ -1,0 +1,22 @@
+﻿@model Whatsapp2.Models.ChatMessages
+    @{ 
+
+    }
+
+<h2>Sending a message to @ViewBag.Title</h2>
+
+@using (Html.BeginForm("AddMessage", "Contacts", FormMethod.Post))
+{
+    @Html.LabelFor(c => c.Message)
+    @Html.TextBoxFor(c => c.Message)
+    @Html.HiddenFor(c => c.Time)
+    @Html.HiddenFor(c => c.SenderEmail)
+    @Html.HiddenFor(c => c.RecieverEmail)
+
+    <br/>
+    <input type="submit" value="Send Message"/>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
